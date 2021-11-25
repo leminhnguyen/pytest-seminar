@@ -1,5 +1,5 @@
 # PyTest Talk
-This talk give you some ideals about the purpose of unittest? how to write good unittest? how to use `pytest` framework? and show you the basic unittest structure for your project.
+This talk give you some ideals about the purpose of unittest? how to write good unittest? how to use `pytest` framework? and show you the basic unittest structure for your project - [check my slide](resources/Python_Unittest.pdf).
  
 ![pytest_passing_tests](resources/pytest_demo_running.gif)
 
@@ -51,8 +51,6 @@ $ pytest [option] test_file|test_folder
 ```
 
 ## Run Unittest Demo
-
-```
 
 ```sh
 $ pytest pytest-demo/demo-tests
